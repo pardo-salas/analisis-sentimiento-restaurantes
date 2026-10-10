@@ -1,0 +1,32 @@
+[
+  {
+    "modelo": "RoBERTuito (Español)",
+    "huggingface_id": "pysentimiento/robertuito-sentiment-analysis",
+    "accuracy": 1.0,
+    "precision": 1.0000,
+    "recall": 1.0,
+    "f1_score": 1.00,
+    "latencia_total_s": 1.9486,
+    "latencia_promedio_ms": 194.86
+  },
+  {
+    "modelo": "BETO Sentiment (Español)",
+    "huggingface_id": "finiteautomata/beto-sentiment-analysis",
+    "accuracy": 1.0,
+    "precision": 1.0000,
+    "recall": 1.0,
+    "f1_score": 1.00,
+    "latencia_total_s": 0.5554,
+    "latencia_promedio_ms": 55.54
+  },
+  {
+    "modelo": "XLM-RoBERTa Multilingüe",
+    "huggingface_id": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+    "accuracy": 0.8,
+    "precision": 0.6667,
+    "recall": 0.8,
+    "f1_score": 0.72,
+    "latencia_total_s": 0.2217,
+    "latencia_promedio_ms": 22.17
+  }
+]

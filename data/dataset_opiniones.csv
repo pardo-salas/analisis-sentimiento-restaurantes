@@ -1,0 +1,11 @@
+id,fecha,comentario,aspecto,sentimiento_real,calificacion
+1,2026-10-01,El servicio fue excelente y la comida llegó rapidísimo. Muy recomendado.,servicio,POS,5
+2,2026-10-01,La comida tardó más de 45 minutos y llegó fría. Deplorable atención.,tiempo,NEG,1
+3,2026-10-02,"El lugar es agradable, pero los precios son algo elevados para la porción.",precio,NEU,3
+4,2026-10-02,"Pésimo trato del mesero, nos ignoró durante media hora.",servicio,NEG,1
+5,2026-10-03,"Las hamburguesas tienen muy buen sabor, volvería sin duda alguna.",comida,POS,5
+6,2026-10-03,"Atención regular, nada fuera de lo común. La limonada estaba tibia.",comida,NEU,3
+7,2026-10-04,"Me encantó el postre de chocolate, excelente presentación.",comida,POS,5
+8,2026-10-04,La mesa estaba sucia al llegar y tardaron en limpiarla.,limpieza,NEG,2
+9,2026-10-05,Buena relación calidad-precio en el menú del día.,precio,POS,4
+10,2026-10-05,"No me gustó la salsa, estaba demasiado salada y el aire acondicionado no servía.",ambiente,NEG,2
